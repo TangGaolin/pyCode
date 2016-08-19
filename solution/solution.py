@@ -4,6 +4,7 @@ class Solution(object):
 		:type nums : list[int]
 		:rtype :list[int]
 		"""
+		# todo
 		return  [1,2,3,4]
 
 
